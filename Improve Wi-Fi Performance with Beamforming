@@ -1,0 +1,19 @@
+Ticket: Improve Wi-Fi Performance with Beamforming
+
+Issue:
+PC1 was connected to the wireless router, but the wireless data rate was lower than expected.
+
+Action Taken:
+Opened the wireless router GUI and enabled Beamforming under Advanced Wireless Settings.
+
+Testing:
+Checked PC1's Best Data Rate before and after enabling Beamforming.
+
+Result:
+The Best Data Rate increased after Beamforming was enabled.
+
+Resolution:
+Beamforming was enabled successfully, improving wireless performance for PC1.
+
+Concept Practised:
+Wi-Fi optimisation, beamforming, wireless signal performance.
